@@ -1,0 +1,44 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------------< com.riya.ps:DemoMaven >------------------------
+[INFO] Building DemoMaven 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ DemoMaven ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\RIYA WAGHMARE\Documents\springcourse\DemoMaven\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ DemoMaven ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ DemoMaven ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\RIYA WAGHMARE\Documents\springcourse\DemoMaven\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ DemoMaven ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.1:test (default-test) @ DemoMaven ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.riya.ps.DemoMaven.AppTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.077 s - in com.riya.ps.DemoMaven.AppTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] 
+[INFO] --- maven-jar-plugin:3.0.2:jar (default-jar) @ DemoMaven ---
+[INFO] 
+[INFO] --- maven-install-plugin:2.5.2:install (default-install) @ DemoMaven ---
+[INFO] Installing C:\Users\RIYA WAGHMARE\Documents\springcourse\DemoMaven\target\DemoMaven-0.0.1-SNAPSHOT.jar to C:\Users\RIYA WAGHMARE\.m2\repository\com\riya\ps\DemoMaven\0.0.1-SNAPSHOT\DemoMaven-0.0.1-SNAPSHOT.jar
+[INFO] Installing C:\Users\RIYA WAGHMARE\Documents\springcourse\DemoMaven\pom.xml to C:\Users\RIYA WAGHMARE\.m2\repository\com\riya\ps\DemoMaven\0.0.1-SNAPSHOT\DemoMaven-0.0.1-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.892 s
+[INFO] Finished at: 2020-08-24T03:19:50+05:30
+[INFO] ------------------------------------------------------------------------
